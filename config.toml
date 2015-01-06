@@ -1,0 +1,17 @@
+baseurl = "http://yourSiteHere"
+languageCode = "en-us"
+title = "my new hugo site"
+
+baseurl = "http://soulcoder.me"
+title = "Soul Coder"
+languageCode = "zh-cn"
+disqusShortname = "keviswang"
+copyright = "Copyright (c) 2008 - 2014, Kevis Wang; all rights reserved."
+MetaDataFormat = "yaml"
+
+[author]
+    name = "Kevis Wang"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
